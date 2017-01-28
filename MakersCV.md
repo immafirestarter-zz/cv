@@ -4,6 +4,7 @@ I am a Biosciences graduate who has decided to switch career path and pursue som
 
 I'm looking for a junior developer role in a company that can make productive use of my skillset while teaching me more about development.
 
+
 ## Skills
 
 ### Research
@@ -24,6 +25,7 @@ Once I have committed to something, I am always inclined to follow it through, n
 
 This new chapter in my life presents exciting prospects and new opportunities, as coding is something that I have always been intrigued by and wanted to try. I know that I will give my all at any developer position I am given, and I am not someone who will let you down.
 
+
 ## Education
 
 ### Makers Academy (unconfirmed)
@@ -38,12 +40,13 @@ This new chapter in my life presents exciting prospects and new opportunities, a
 - AAA* at A-Level (Biology, Chemistry, Maths)
 - 8 A* and 3 A at GCSE
 
-### Additional Skills
 
-Curiosity and passion for code
-Independent learner and problem-solver
-OOP, TDD, SOLID, MVC, DDD
-Ruby ,Rspec, Git
+## Additional Skills
+
+- Curiosity and passion for code
+- Independent learner and problem-solver
+- TDD and pair-programming
+- Ruby ,Rspec, Git
 
 
 ## Experience
@@ -54,6 +57,6 @@ Intern
 correlation and regression
 
 ### J3M Technologies (May 2016 - July 2016)
-intellectual Property and Licencing Consultant
+Intellectual Property and Licencing Consultant
 - Developed a strategy for licensing and marketing an AM radio transmitting device by J3M technologies. Was
 involved in advising on IP and creating a report investigating the potential future of the device.
