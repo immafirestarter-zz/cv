@@ -46,7 +46,7 @@ At Makers, such dedication was in evidence during the group projects, especially
 - Curiosity and passion for code
 - Independent learner and problem-solver
 - TDD and pair-programming
-- Ruby (and Rails), Javascript, Node.js, Express, Swift
+- Ruby (and Rails), Javascript, Node.js, Express (here is a project I collaborated on using the MEAN stack: https://github.com/immafirestarter/An-illogical-approach-to-life), Swift
 
 
 ## Employment Experience
