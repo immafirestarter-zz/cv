@@ -23,7 +23,7 @@ This skill helps me integrate quickly into any new situation I am thrust into, a
 
 Once I have committed to something, I am always inclined to follow it through, no matter what. Halfway through my master's degree I realised that I hated my project and the work that went with it. Despite this I persevered and ended up with an honours degree that I was proud of. I met some great people along the way and felt good about my self upon completion. The same applied to secondary school; I hated my first few years but kept going and eventually became a better person for it.
 
-At Makers, such dedication was in evidence during the group projects, especially in our final project which involved creating a 2D platformer in swift. We really wanted to create a well polished game that we would be able to proudly present on graduation day. What we ended up with was probably better than any of us could have imagined, but inv. I know that I would do the same at any developer position I am given, and I am not someone who will let you down.
+At Makers, such dedication was in evidence during the group projects, especially in our final project which involved creating a 2D platformer in swift. We really wanted to create a well polished game that we would be able to proudly present on graduation day. What we ended up with was probably better than any of us could have imagined, but involved many long days. I know that I would do the same at any developer position I am given, and I am not someone who will let you down.
 
 
 ## Education
