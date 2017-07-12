@@ -51,11 +51,11 @@ At Makers, such dedication was in evidence during the group projects, especially
 
 ## Selected Projects:
 
-| Project                                                          | Summary                                                                                                                     | Technologies                                     |   |   |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|---|---|
-| https://github.com/immafirestarter/Project-Z                     | A 2D Side-scroller for iPhone, similar to the super Mario series of games.  Done as a group of 4 with pairing.              | Swift, Xcode, XCtest, SpriteKit                  |   |   |
-| https://github.com/immafirestarter/Muze                          | A solo project I am currently working on. Aim is to build a web-based social media platform connecting musicians to venues. | Node.js, Express, React,  MongoDB, HTML, CSS,    |   |   |
-| https://github.com/immafirestarter/An-illogical-approach-to-life | A web-based turn-based RPG game with  user accounts and simple world map.  Done as a group of 5 with pairing.               | AngularJS, Express, Node.js,  MongoDB, HTML, CSS |   |   |
+| Project                                                          | Summary                                                                                                                     | Technologies                                     |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| https://github.com/immafirestarter/Project-Z                     | A 2D Side-scroller for iPhone, similar to the super Mario series of games.  Done as a group of 4 with pairing.              | Swift, Xcode, XCtest, SpriteKit                  |
+| https://github.com/immafirestarter/Muze                          | A solo project I am currently working on. Aim is to build a web-based social media platform connecting musicians to venues. | Node.js, Express, React,  MongoDB, HTML, CSS,    |
+| https://github.com/immafirestarter/An-illogical-approach-to-life | A web-based turn-based RPG game with  user accounts and simple world map.  Done as a group of 5 with pairing.               | AngularJS, Express, Node.js,  MongoDB, HTML, CSS |
 
 ## Employment Experience
 
