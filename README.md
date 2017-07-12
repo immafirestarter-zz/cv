@@ -1,6 +1,6 @@
 # Sami Mason
 
-I am a Biosciences graduate who has decided to switch career path and pursue something I am passionate about in coding, with help from Makers Academy. I have a master's degree in research, as well as having consulted small, scientific businesses with their intellectual property. I would like to combine these skills I have acquired (notably the ability to research and solve problems effectively) to the world of developement, helping to refactor existing code and create my own original code.
+I am a Biosciences graduate who has decided to switch career path and pursue something I am passionate about, with help from Makers Academy. I have a master's degree in research, as well as having consulted small, scientific businesses with their intellectual property. My aim is to utilise skills I have gained from past experience in my new career as a developer, while continuing to increase my knowledge of coding.
 
 I'm looking for a junior developer role in a company that can make productive use of my skillset while teaching me more about software development and the principles that go with it.
 
