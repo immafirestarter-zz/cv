@@ -67,3 +67,7 @@ correlation and regression
 ### J3M Technologies (May 2016 - July 2016)
 Intellectual Property and Licencing Consultant
 - Developed a strategy for licensing and marketing an AM radio transmitting device by J3M technologies. Was involved in advising on IP and creating a report investigating the potential future of the device.
+
+### Cordant Group (August 2017 - Present)
+Full-stack junior developer
+- Working with node, angular and postgres to create web apps for use in the recruitment sector. Tasked with developing a fully fledged notification engine for handling emails. texts and slack messages within the company.
